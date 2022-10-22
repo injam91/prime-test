@@ -1,0 +1,4 @@
+1 is a composite number
+9 is a composite number
+33 is a composite number
+100 is a composite number
